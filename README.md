@@ -6,4 +6,4 @@ The content of the panels looks as a 4x4 grid. Each grid cell is a button with a
 
 For the correct work of the application should be installed Visual C++ Redistributable for Visual Studio and Haxe.
 
-Code and a project file for FlashDevelop locate in the directory 'Haxe-Test-FlashDevelop'.
+Code and a project file for FlashDevelop locate in the directory 'Haxe-Test-FlashDevelop'. The application was compiled using Neko.
